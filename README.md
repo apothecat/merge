@@ -18,7 +18,7 @@ A short demo of the application in action is also provided:
 *You are a project manager at MMU Corp, a medium-sized software service company. An external client has asked you to
 design and build a dating website aimed at software developers.  You are assigned a team of 3 developers, a tester, and a business analyst. You are part way through develpment and upper management have asked for a detailed progress report. Your task is to write a report discussing the requirements gathering, design and implementation of the project.*
 
-## Builing and Running the Source Code
+## Building and Running the Source Code
 
 The  'merge' directory is a Maven project packaged as an executable JAR. It should therefore contain all of the resources associated with the project.  
  
